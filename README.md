@@ -6,7 +6,7 @@
 <p align="center">
 Machine Learning • Customer Churn Prediction • Customer Segmentation • Random Forest • Scikit-learn
 </p>
-## Overview
+ Overview
 
 This project predicts whether a customer is likely to churn using Machine Learning and also segments customers into different groups based on their behavior. The project covers the complete ML workflow from data preprocessing and visualization to model training, evaluation, and customer segmentation.
 
