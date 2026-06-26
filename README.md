@@ -1,6 +1,6 @@
 # Customer Churn Prediction and Customer Segmentation
 <p align="center">
-  <img src="Images/banner.png" width="900">
+  <img src="Customer-Churn-Prediction/Images/banner.png" width="900">
 </p>
 
 <p align="center">
